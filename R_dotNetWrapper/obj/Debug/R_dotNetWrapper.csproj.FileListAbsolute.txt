@@ -1,0 +1,4 @@
+C:\Viswa\Tech\NN\R_dotNetWrapper\R_dotNetWrapper\bin\Debug\R_dotNetWrapper.dll
+C:\Viswa\Tech\NN\R_dotNetWrapper\R_dotNetWrapper\bin\Debug\R_dotNetWrapper.pdb
+C:\Viswa\Tech\NN\R_dotNetWrapper\R_dotNetWrapper\obj\Debug\R_dotNetWrapper.dll
+C:\Viswa\Tech\NN\R_dotNetWrapper\R_dotNetWrapper\obj\Debug\R_dotNetWrapper.pdb
